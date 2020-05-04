@@ -11,3 +11,4 @@ github_v3 = "0.3.2"
 serde = "1.0.106"
 serde_derive = "1.0.106"
 tokio = {version = "0.2", features = ["full"]}
+atty = "0.2"
